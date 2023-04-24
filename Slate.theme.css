@@ -17,8 +17,8 @@
 */
 :root {
   /* Primary Colors */
-  --accent: 3, 102, 214;
-  --link-colour: 48, 144, 255;
+  --accent: 214, 3, 113;
+  --link-colour: 255, 48, 156;
   /* Server List */
   --server-icon-size: 35px;
   --server-icon-spacing: 8px;
